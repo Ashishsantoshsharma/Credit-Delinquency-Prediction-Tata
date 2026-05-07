@@ -10,7 +10,7 @@ Virtual Experience.
 ## 🛠️ Tools & Technologies
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 - **Machine Learning** (Logistic Regression)
-- **Google Colab
+- **Google Colab**
 - **GenAI** (Tata iQ / GenAI tools)
 - **PowerPoint & Word** (Business reporting)
 
